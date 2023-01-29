@@ -45,7 +45,7 @@ nav {
   display: block;
   right: 0px;
   top: -300px;
-  width: 600px;
+  width: 40%;
 }
 
 .txt {
@@ -56,7 +56,7 @@ nav {
 }
 
 .one {
-  width: 1200px;
+  width: 80%;
   height: 180px;
   margin-top: 300px;
   background: #1b1d90;
